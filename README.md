@@ -9,10 +9,4 @@ Stay alert, the aliens are coming!
 
 Have a nice game!
 
-:book: **Game manual**: [UfoFighter_Manual.pdf](uploads/229ef223a6793bdc2d4e79c013333f5f/UnoFighter_Manual.pdf)
-
-:green_book: **First UML:** [UfoFighter_UML.pdf](uploads/94734e64e7e3b42e189d9135637a5a94/UnoFighter_UML.pdf)
-
-:coffee:[**Code is here**](https://gitlab.fel.cvut.cz/B222_B0B36PJV/mashkvla/-/tree/main/Semestralka) 
-
 _Made by Mashkin Vladimir_
