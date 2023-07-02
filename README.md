@@ -1,5 +1,5 @@
 
-![изображение_2023-04-14_225704302](uploads/bec7aff6e155e2cd5e5ef33609710d74/изображение_2023-04-14_225704302.png)
+![ufoFighterLogo](Desktop/ufoFighterLogo.png)
 
 :space_invader: **Game discription** \
 \
